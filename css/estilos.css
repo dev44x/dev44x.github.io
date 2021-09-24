@@ -9,12 +9,12 @@ h1 {
 }
 
 h2 {
-	background: #lightcyan;
+	background:lightcyan;
 	color: red;
 }
 
 h3 {
-    background: #lightblue;
+    background:lightblue;
     color: red;
 }
 
@@ -111,3 +111,6 @@ a:active {
 strong, .note {
 	color: red;
 }
+ 
+
+ 
